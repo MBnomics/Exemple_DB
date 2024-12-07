@@ -1,0 +1,17 @@
+[project]
+name = "db-test-m1"
+version = "0.1.0"
+description = "Exemple"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dbnomics>=1.2.5",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.3",
+    "nbformat>=5.10.4",
+    "pandas>=2.2.3",
+    "pip>=24.3.1",
+    "plotly>=5.24.1",
+    "polars>=1.16.0",
+    "streamlit>=1.40.2",
+]
